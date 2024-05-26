@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Yehuda</h1>
-<h3 align="center">Software developer and M.Sc. student pursuing a master's degree in computer science.</h3>
+<h3 align="center">Software developer and M.Sc. university student pursuing a master's degree in computer science.</h3>
 
 - 👨‍💻 My portfolio: [https://yehudaheller.github.io/](https://yehudaheller.github.io/)
 
