@@ -3,7 +3,7 @@
 
 - 👨‍💻 My portfolio: [https://yehudaheller.github.io/](https://yehudaheller.github.io/)
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me: yehudaheller10@gmail.com</h3>
 <p align="left">
 </p>
 
